@@ -11327,7 +11327,7 @@ print {
 
 @media screen and (max-width: 768px) {
 	.has-text-black-mobile {
-		color: black !important
+		color: white !important
 	}
 }
 
