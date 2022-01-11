@@ -23,12 +23,19 @@
          <div class="container has-text-centered-mobile">
             <header><a href="index.html" id="userForm" class="app-title"><img src="./img/logo_horizontal_clip_gray.png"  width="252" height="48"/></a></header>
             <div class="columns">
-               <div class="column has-text-centered-mobile">
+               <div class="column is-two-thirds has-text-centered-mobile">
                   <div>
                      <h1 class="title is-size-2 w-full font-900">Create video trends<br>without editing</h1>
-                     <p class="is-size-5" style="max-width: 458px;">Select a clip template, select your videos or photos and enjoy the result.</p>                     
-                     <form action="index.html" id="betatestersForm" class="is-flex has-text-centered-mobile">
-                        <input id="betatesterEmail" type="email" placeholder="Your Best Email Address">
+                     <p class="is-size-5" style="max-width: 550px;">Select a clip template, select your videos or photos and enjoy the result.</p>                     
+                     <form action="index.html" id="betatestersForm" class="is-flex has-text-centered-mobile">                        
+                        <input id="betatesterEmail" type="email" placeholder="Your Email Address">
+                        <input type="hidden">
+                           <select name="mobileSystem" style="margin-right: 5px;" id="mobileSystem">
+                              <option value="mobile">Your Mobile</option>
+                              <option value="iphone">iPhone</option>
+                              <option value="android">Android</option>                     
+                           </select>
+                        </input>
                         <button id="betatesterEarlyAccessButton" >EARLY ACCESS</button>
                      </form>                     
                      <p class="is-size-6" style="font-weight: bold" id="userEmailInformation"></p>
@@ -45,6 +52,13 @@
                <p class="has-text-white is-size-5">Be one of the early creators before lunch.</p>
                <form id="creatorForm" action="index.html" class="is-flex has-text-centered">
                   <input type="text" id="creatortesterEmail" placeholder="Email Address">
+                  <input type="hidden" placeholder="Your Best Email Address">
+                           <select name="creatorMobileSystem" style="margin-right: 5px;" id="creatorMobileSystem">
+                              <option value="mobile">Select Your Mobile</option>
+                              <option value="iphone">iPhone</option>
+                              <option value="android">Android</option>                     
+                           </select>
+                  </input>
                   <button id="creatortesterEarlyAccessButton">EARLY ACCESS</button>
                </form>
                <p class="has-text-white is-size-6" style="font-weight: bold" id="creatorEmailInformation"></p>
