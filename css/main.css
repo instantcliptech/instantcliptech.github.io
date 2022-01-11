@@ -1035,7 +1035,7 @@ a.has-text-dark:focus {
 }
 
 .has-text-primary {
-	color: #982CF4 !important
+	color: #B865FF !important
 }
 
 a.has-text-primary:hover,
@@ -1044,7 +1044,7 @@ a.has-text-primary:focus {
 }
 
 .has-background-primary {
-	background-color: #982CF4 !important
+	background-color: #B865FF !important
 }
 
 .has-text-link {
@@ -2272,7 +2272,7 @@ fieldset[disabled] .button.is-dark.is-inverted.is-outlined {
 }
 
 .button.is-primary {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	border-color: transparent;
 	color: #fff
 }
@@ -2304,14 +2304,14 @@ fieldset[disabled] .button.is-dark.is-inverted.is-outlined {
 
 .button.is-primary[disabled],
 fieldset[disabled] .button.is-primary {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	border-color: transparent;
 	box-shadow: none
 }
 
 .button.is-primary.is-inverted {
 	background-color: #fff;
-	color: #982CF4
+	color: #B865FF
 }
 
 .button.is-primary.is-inverted:hover,
@@ -2324,7 +2324,7 @@ fieldset[disabled] .button.is-primary.is-inverted {
 	background-color: #fff;
 	border-color: transparent;
 	box-shadow: none;
-	color: #982CF4
+	color: #B865FF
 }
 
 .button.is-primary.is-loading::after {
@@ -2333,21 +2333,21 @@ fieldset[disabled] .button.is-primary.is-inverted {
 
 .button.is-primary.is-outlined {
 	background-color: transparent;
-	border-color: #982CF4;
-	color: #982CF4
+	border-color: #B865FF;
+	color: #B865FF
 }
 
 .button.is-primary.is-outlined:hover,
 .button.is-primary.is-outlined.is-hovered,
 .button.is-primary.is-outlined:focus,
 .button.is-primary.is-outlined.is-focused {
-	background-color: #982CF4;
-	border-color: #982CF4;
+	background-color: #B865FF;
+	border-color: #B865FF;
 	color: #fff
 }
 
 .button.is-primary.is-outlined.is-loading::after {
-	border-color: transparent transparent #982CF4 #982CF4 !important
+	border-color: transparent transparent #B865FF #B865FF !important
 }
 
 .button.is-primary.is-outlined.is-loading:hover::after,
@@ -2360,9 +2360,9 @@ fieldset[disabled] .button.is-primary.is-inverted {
 .button.is-primary.is-outlined[disabled],
 fieldset[disabled] .button.is-primary.is-outlined {
 	background-color: transparent;
-	border-color: #982CF4;
+	border-color: #B865FF;
 	box-shadow: none;
-	color: #982CF4
+	color: #B865FF
 }
 
 .button.is-primary.is-inverted.is-outlined {
@@ -2376,14 +2376,14 @@ fieldset[disabled] .button.is-primary.is-outlined {
 .button.is-primary.is-inverted.is-outlined:focus,
 .button.is-primary.is-inverted.is-outlined.is-focused {
 	background-color: #fff;
-	color: #982CF4
+	color: #B865FF
 }
 
 .button.is-primary.is-inverted.is-outlined.is-loading:hover::after,
 .button.is-primary.is-inverted.is-outlined.is-loading.is-hovered::after,
 .button.is-primary.is-inverted.is-outlined.is-loading:focus::after,
 .button.is-primary.is-inverted.is-outlined.is-loading.is-focused::after {
-	border-color: transparent transparent #982CF4 #982CF4 !important
+	border-color: transparent transparent #B865FF #B865FF !important
 }
 
 .button.is-primary.is-inverted.is-outlined[disabled],
@@ -3636,7 +3636,7 @@ fieldset[disabled] .button {
 }
 
 .notification.is-primary {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
@@ -3759,19 +3759,19 @@ fieldset[disabled] .button {
 }
 
 .progress.is-primary::-webkit-progress-value {
-	background-color: #982CF4
+	background-color: #B865FF
 }
 
 .progress.is-primary::-moz-progress-bar {
-	background-color: #982CF4
+	background-color: #B865FF
 }
 
 .progress.is-primary::-ms-fill {
-	background-color: #982CF4
+	background-color: #B865FF
 }
 
 .progress.is-primary:indeterminate {
-	background-image: linear-gradient(to right, #982CF4 30%, #dbdbdb 30%)
+	background-image: linear-gradient(to right, #B865FF 30%, #dbdbdb 30%)
 }
 
 .progress.is-link::-webkit-progress-value {
@@ -3938,8 +3938,8 @@ fieldset[disabled] .button {
 
 .table td.is-primary,
 .table th.is-primary {
-	background-color: #982CF4;
-	border-color: #982CF4;
+	background-color: #B865FF;
+	border-color: #B865FF;
 	color: #fff
 }
 
@@ -3986,7 +3986,7 @@ fieldset[disabled] .button {
 
 .table td.is-selected,
 .table th.is-selected {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
@@ -4006,7 +4006,7 @@ fieldset[disabled] .button {
 }
 
 .table tr.is-selected {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
@@ -4200,7 +4200,7 @@ fieldset[disabled] .button {
 }
 
 .tag:not(body).is-primary {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
@@ -4645,7 +4645,7 @@ fieldset[disabled] .select select:-ms-input-placeholder,
 
 .is-primary.input,
 .is-primary.textarea {
-	border-color: #982CF4
+	border-color: #B865FF
 }
 
 .is-primary.input:focus,
@@ -4969,11 +4969,11 @@ fieldset[disabled] .select select:hover {
 }
 
 .select.is-primary:not(:hover)::after {
-	border-color: #982CF4
+	border-color: #B865FF
 }
 
 .select.is-primary select {
-	border-color: #982CF4
+	border-color: #B865FF
 }
 
 .select.is-primary select:hover,
@@ -5249,7 +5249,7 @@ fieldset[disabled] .select select:hover {
 }
 
 .file.is-primary .file-cta {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	border-color: transparent;
 	color: #fff
 }
@@ -5641,7 +5641,7 @@ fieldset[disabled] .select select:hover {
 }
 
 .help.is-primary {
-	color: #982CF4
+	color: #B865FF
 }
 
 .help.is-link {
@@ -6560,12 +6560,12 @@ a.list-item {
 }
 
 .message.is-primary .message-header {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
 .message.is-primary .message-body {
-	border-color: #982CF4;
+	border-color: #B865FF;
 	color: #0548b4
 }
 
@@ -7052,7 +7052,7 @@ print {
 }
 
 .navbar.is-primary {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
@@ -7112,7 +7112,7 @@ print {
 		color: #fff
 	}
 	.navbar.is-primary .navbar-dropdown a.navbar-item.is-active {
-		background-color: #982CF4;
+		background-color: #B865FF;
 		color: #fff
 	}
 }
@@ -10666,7 +10666,7 @@ print {
 }
 
 .hero.is-primary {
-	background-color: #982CF4;
+	background-color: #B865FF;
 	color: #fff
 }
 
@@ -10690,7 +10690,7 @@ print {
 
 @media screen and (max-width: 1023px) {
 	.hero.is-primary .navbar-menu {
-		background-color: #982CF4
+		background-color: #B865FF
 	}
 }
 
@@ -10736,16 +10736,16 @@ print {
 .hero.is-primary .tabs.is-toggle li.is-active a:hover {
 	background-color: #fff;
 	border-color: #fff;
-	color: #982CF4
+	color: #B865FF
 }
 
 .hero.is-primary.is-bold {
-	background-image: linear-gradient(141deg, #0070cc 0%, #982CF4 71%, #1a4bff 100%)
+	background-image: linear-gradient(141deg, #0070cc 0%, #B865FF 71%, #1a4bff 100%)
 }
 
 @media screen and (max-width: 768px) {
 	.hero.is-primary.is-bold .navbar-menu {
-		background-image: linear-gradient(141deg, #0070cc 0%, #982CF4 71%, #1a4bff 100%)
+		background-image: linear-gradient(141deg, #0070cc 0%, #B865FF 71%, #1a4bff 100%)
 	}
 }
 
@@ -11343,7 +11343,7 @@ header .app-title {
 }
 
 header .app-title span {
-	color: #982CF4;
+	color: #B865FF;
 	margin-left: 5px
 }
 
@@ -11375,7 +11375,7 @@ header .app-title span {
 }
 
 .banner form button {
-	background: #982CF4;
+	background: #B865FF;
 	color: white;
 	border: none;
 	font-weight: bold;
@@ -11468,7 +11468,7 @@ header .app-title span {
 }
 
 #testimonials .testimonials-container {
-	background: #982CF4;
+	background: #B865FF;
 	width: 340px;
 	height: 404px;
 	border-radius: 100%;
@@ -11514,7 +11514,7 @@ header .app-title span {
 }
 
 #testimonials .testimonials-container .testimonials-container-content .testimonials-item-container .testimonials-profile {
-	background: #982CF4;
+	background: #B865FF;
 	position: absolute;
 	top: -55px;
 	height: 130px;
@@ -11598,7 +11598,7 @@ header .app-title span {
 }
 
 .footer form button {
-	background: #982CF4;
+	background: #B865FF;
 	color: white;
 	border: none;
 	font-weight: bold;
