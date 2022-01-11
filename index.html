@@ -13,20 +13,25 @@
       <link rel="shortcut icon" href="./img/favicon/favicon.ico">
       <meta name="msapplication-TileColor" content="#da532c">
       <meta name="msapplication-config" content="./img/browserconfig.xml">
-      <meta name="theme-color" content="#ffffff">
-      <link href="css/main.css" rel="stylesheet">
+      <meta name="theme-color" content="#ffffff">      
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">    
+      <link href="css/main.css" rel="stylesheet">  
    </head>
    <body>
       <div class="banner">
          <img src="./img/banner-bg.png" class="is-absolute">
          <div class="container has-text-centered-mobile">
-            <header><a href="" class="app-title"><img src="./img/logo_horizontal_clip_gray.png"  width="312" height="58"/></a></header>
+            <header><a href="index.html" id="userForm" class="app-title"><img src="./img/logo_horizontal_clip_gray.png"  width="252" height="48"/></a></header>
             <div class="columns">
                <div class="column has-text-centered-mobile">
                   <div>
                      <h1 class="title is-size-2 w-full font-900">Create video trends<br>without editing</h1>
-                     <p class="is-size-5" style="max-width: 458px;">Select a clip template, select your videos or photos and enjoy the result.</p>
-                     <form id="betatestersForm" class="is-flex"><input id="betatesterEmail" type="email" placeholder="Your Best Email Address"><button id="betatesterEarlyAccessButton" >EARLY ACCESS</button></form>                     
+                     <p class="is-size-5" style="max-width: 458px;">Select a clip template, select your videos or photos and enjoy the result.</p>                     
+                     <form action="index.html" id="betatestersForm" class="is-flex has-text-centered-mobile">
+                        <input id="betatesterEmail" type="email" placeholder="Your Best Email Address">
+                        <button id="betatesterEarlyAccessButton" >EARLY ACCESS</button>
+                     </form>                     
+                     <p class="is-size-6" style="font-weight: bold" id="userEmailInformation"></p>
                   </div>
                </div>
                <div class="column"><img src="./img/banner-img.png"></div>
@@ -38,7 +43,11 @@
             <div class="has-text-centered max-w-650 mx-auto">
                <h1 class="has-text-white title is-size-2 font-900">Are you a creator?</h1>
                <p class="has-text-white is-size-5">Be one of the early creators before lunch.</p>
-               <form action="" class="is-flex"><input type="text" id="creatortesterEmail" placeholder="Email Address"><button id="creatortesterEarlyAccessButton">EARLY ACCESS</button></form>
+               <form id="creatorForm" action="index.html" class="is-flex has-text-centered">
+                  <input type="text" id="creatortesterEmail" placeholder="Email Address">
+                  <button id="creatortesterEarlyAccessButton">EARLY ACCESS</button>
+               </form>
+               <p class="has-text-white is-size-6" style="font-weight: bold" id="creatorEmailInformation"></p>
             </div>
             <div class="line"></div>                   
             <div class="has-text-centered lh-2">
