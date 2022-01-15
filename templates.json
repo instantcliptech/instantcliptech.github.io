@@ -3,7 +3,8 @@
   "thumbnail": "https://tothemon.com",
   "authorName": "tonilopezmr",
   "template": {
-    "sound": "http://song.mp3"
+    "duration": 10,
+    "sound": "http://song.mp3",
     "slots": [{
       "time": 0.4,
       "type": "video"
