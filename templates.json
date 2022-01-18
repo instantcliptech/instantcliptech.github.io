@@ -1,10 +1,12 @@
 [{
+  "id": "A1",
   "title": "To the moon",
-  "thumbnail": "https://tothemon.com",
+  "thumbnailUrl": "https://tothemon.com",
   "authorName": "tonilopezmr",
+  "authorAvatarUrl": "tonilopezmr",
   "template": {
     "duration": 10,
-    "sound": "http://song.mp3",
+    "soundUrl": "http://song.mp3",
     "slots": [{
       "time": 0.4,
       "type": "video"
