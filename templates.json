@@ -1,266 +1,303 @@
 [{
-  "id": "A1",
-  "title": "To the moon",
-  "thumbnailUrl": "https://instantclip.app/app_images/a1.jpeg",
-  "authorName": "tonilopezmr",
-  "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-  "sample": "https://instantclip.app/app_images/video_sample2.MOV",
-  "template": {
-    "duration": 10,
-    "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-    "slots": [{
-      "time": 0.4,
-      "type": "video"
-    },{
-      "time": 0.4,
-      "type": "video"
-    }]
-  }
-},
-  {
-    "id": "A2",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a2.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "video"
-      }]
+        "id": "A1",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a1.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample2.MOV",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }]
+        }
+    },
+    {
+        "id": "A2",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a2.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }]
+        }
+    },
+    {
+        "id": "A3",
+        "title": "Good part",
+        "thumbnailUrl": "https://instantclip.app/app_images/a3.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/good_part_sample.mov",
+        "template": {
+            "duration": 7,
+            "soundUrl": "http://instantclip.app/app_images/good_part.mp3",
+            "slots": [{
+                "time": 3.4,
+                "type": "video"
+            }, {
+                "time": 3.6,
+                "type": "video"
+            }]
+        }
+    },
+    {
+        "id": "A4",
+        "title": "Unexpected Journey",
+        "thumbnailUrl": "https://instantclip.app/app_images/a4.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/unexpected_travel.mov",
+        "template": {
+            "duration": 8.37,
+            "soundUrl": "http://instantclip.app/app_images/unexpected_travel.mp3",
+            "slots": [{
+                "time": 2.70,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.57,
+                "type": "video"
+            }, {
+                "time": 0.62,
+                "type": "video"
+            }, {
+                "time": 0.47,
+                "type": "video"
+            }, {
+                "time": 0.37,
+                "type": "video"
+            }, {
+                "time": 0.34,
+                "type": "video"
+            }, {
+                "time": 0.47,
+                "type": "video"
+            }, {
+                "time": 0.36,
+                "type": "video"
+            }, {
+                "time": 0.33,
+                "type": "video"
+            }, {
+                "time": 0.50,
+                "type": "video"
+            }, {
+                "time": 0.44,
+                "type": "video"
+            }, {
+                "time": 0.26,
+                "type": "video"
+            }, {
+                "time": 0.34,
+                "type": "video"
+            }]
+        }
+    },
+    {
+        "id": "A5",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a5.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A6",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a6.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A7",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a7.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A8",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a8.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A9",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a9.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A10",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a10.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A11",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a11.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A12",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a12.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A13",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a13.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A14",
+        "title": "To the moon",
+        "thumbnailUrl": "https://instantclip.app/app_images/a14.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 10,
+            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "slots": [{
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "image"
+            }]
+        }
     }
-  },
-  {
-    "id": "A3",
-    "title": "Good part",
-    "thumbnailUrl": "https://instantclip.app/app_images/a3.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/good_part_sample.mov",
-    "template": {
-      "duration": 7,
-      "soundUrl": "http://instantclip.app/app_images/good_part.mp3",
-      "slots": [{
-        "time": 3.4,
-        "type": "video"
-      },{
-        "time": 3.6,
-        "type": "video"
-      }]
-    }
-  },
-  {
-    "id": "A4",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a4.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A5",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a5.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A6",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a6.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A7",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a7.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A8",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a8.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A9",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a9.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A10",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a10.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A11",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a11.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A12",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a12.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A13",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a13.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  },
-  {
-    "id": "A14",
-    "title": "To the moon",
-    "thumbnailUrl": "https://instantclip.app/app_images/a14.jpeg",
-    "authorName": "tonilopezmr",
-    "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
-    "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-      "slots": [{
-        "time": 0.4,
-        "type": "video"
-      },{
-        "time": 0.4,
-        "type": "image"
-      }]
-    }
-  }]
+]
