@@ -13,7 +13,7 @@
       "type": "video"
     },{
       "time": 0.4,
-      "type": "image"
+      "type": "video"
     }]
   }
 },
@@ -32,26 +32,26 @@
         "type": "video"
       },{
         "time": 0.4,
-        "type": "image"
+        "type": "video"
       }]
     }
   },
   {
     "id": "A3",
-    "title": "To the moon",
+    "title": "Good part",
     "thumbnailUrl": "https://instantclip.app/app_images/a3.jpeg",
     "authorName": "tonilopezmr",
     "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-    "sample": "https://instantclip.app/app_images/video_sample.mp4",
+    "sample": "https://instantclip.app/app_images/good_part_sample.mov",
     "template": {
-      "duration": 10,
-      "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+      "duration": 7,
+      "soundUrl": "http://instantclip.app/app_images/good_part.mp3",
       "slots": [{
-        "time": 0.4,
+        "time": 3.4,
         "type": "video"
       },{
-        "time": 0.4,
-        "type": "image"
+        "time": 3.6,
+        "type": "video"
       }]
     }
   },
