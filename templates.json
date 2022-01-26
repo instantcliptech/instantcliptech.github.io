@@ -6,8 +6,8 @@
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
         "sample": "https://instantclip.app/app_images/video_sample2.MOV",
         "template": {
-            "duration": 10,
-            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
+            "duration": 8,
+            "soundUrl": "http://instantclip.app/app_images/video_sample2.mp3",
             "slots": [{
                 "time": 0.4,
                 "type": "video"
@@ -39,13 +39,16 @@
                 "time": 0.4,
                 "type": "video"
             },{
-                "time": 0.4,
+                "time": 0.5,
                 "type": "video"
             },{
-                "time": 0.4,
+                "time": 0.5,
                 "type": "video"
             },{
-                "time": 0.4,
+                "time": 0.6,
+                "type": "video"
+            },{
+                "time": 2.4,
                 "type": "video"
             }]
         }
