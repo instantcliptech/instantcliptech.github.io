@@ -1,7 +1,7 @@
 [{
         "id": "A1",
-        "title": "To the moon",
-        "thumbnailUrl": "https://instantclip.app/app_images/a1.jpeg",
+        "title": "Piano trips",
+        "thumbnailUrl": "https://instantclip.app/app_images/a1.jpg",
         "authorName": "tonilopezmr",
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
         "sample": "https://instantclip.app/app_images/video_sample2.MOV",
@@ -55,8 +55,8 @@
     },
     {
         "id": "A2",
-        "title": "To the moon",
-        "thumbnailUrl": "https://instantclip.app/app_images/a2.jpeg",
+        "title": "In heat",
+        "thumbnailUrl": "https://instantclip.app/app_images/a2.jpg",
         "authorName": "tonilopezmr",
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
         "sample": "https://instantclip.app/app_images/video_sample.mp4",
@@ -96,7 +96,7 @@
     {
         "id": "A3",
         "title": "Good part",
-        "thumbnailUrl": "https://instantclip.app/app_images/a3.jpeg",
+        "thumbnailUrl": "https://instantclip.app/app_images/a3.jpg",
         "authorName": "tonilopezmr",
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
         "sample": "https://instantclip.app/app_images/good_part_sample.mov",
@@ -115,7 +115,7 @@
     {
         "id": "A4",
         "title": "Unexpected Journey",
-        "thumbnailUrl": "https://instantclip.app/app_images/a4.jpeg",
+        "thumbnailUrl": "https://instantclip.app/app_images/a4.jpg",
         "authorName": "tonilopezmr",
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
         "sample": "https://instantclip.app/app_images/unexpected_travel.mov",
