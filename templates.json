@@ -128,6 +128,40 @@
         }
     },
     {
+        "id": "A4",
+        "title": "Let's go",
+        "thumbnailUrl": "https://instantclip.app/app_images/a4.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "template": {
+            "duration": 11,
+            "soundUrl": "http://instantclip.app/app_images/letsgo.mp3",
+            "slots": [{
+                "time": 3.74,
+                "type": "video"
+            }, {
+                "time": 1.28,
+                "type": "video"
+            }, {
+                "time": 1.18,
+                "type": "video"
+            }, {
+                "time": 1.14,
+                "type": "video"
+            }, {
+                "time": 1.26,
+                "type": "video"
+            }, {
+                "time": 0.91,
+                "type": "video"
+            }, {
+                "time": 1.05,
+                "type": "video"
+            }]
+        }
+    },
+    {
         "id": "A5",
         "title": "To the moon",
         "thumbnailUrl": "https://instantclip.app/app_images/a5.jpeg",
