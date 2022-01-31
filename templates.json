@@ -130,10 +130,10 @@
     {
         "id": "A4",
         "title": "Let's go",
-        "thumbnailUrl": "https://instantclip.app/app_images/a4.jpeg",
+        "thumbnailUrl": "https://instantclip.app/app_images/a2.jpeg",
         "authorName": "tonilopezmr",
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-        "sample": "https://instantclip.app/app_images/video_sample.mp4",
+        "sample": "https://instantclip.app/app_images/letsgo.mp4",
         "template": {
             "duration": 11,
             "soundUrl": "http://instantclip.app/app_images/letsgo.mp3",
