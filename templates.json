@@ -200,5 +200,100 @@
                 "type": "image"
             }]
         }
+    },
+    {
+        "id": "A6",
+        "title": "So Alone",
+        "thumbnailUrl": "https://instantclip.app/app_images/soalone.jpeg",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/soalone.mp4",
+        "template": {
+            "duration": 4.8,
+            "soundUrl": "http://instantclip.app/app_images/soalone.mp3",
+            "slots": [{
+                "time": 1,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }, {
+                "time": 0.5,
+                "type": "image"
+            }]
+        }
+    },
+    {
+        "id": "A7",
+        "title": "Miss you",
+        "thumbnailUrl": "https://instantclip.app/app_images/abcd.png",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/abcd.mp4",
+        "template": {
+            "duration": 4.8,
+            "soundUrl": "http://instantclip.app/app_images/abcd.mp3",
+            "slots": [{
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.45,
+                "type": "video"
+            }, {
+                "time": 0.53,
+                "type": "video"
+            }, {
+                "time": 0.64,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.47,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 1.99,
+                "type": "video"
+            }, {
+                "time": 2.05,
+                "type": "video"
+            }, {
+                "time": 1.3,
+                "type": "video"
+            }, {
+                "time": 3.46,
+                "type": "video"
+            }]
+        }
     }
 ]
