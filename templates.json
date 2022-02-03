@@ -130,7 +130,7 @@
     {
         "id": "A4",
         "title": "Let's go",
-        "thumbnailUrl": "https://instantclip.app/app_images/a6.jpeg",
+        "thumbnailUrl": "https://instantclip.app/app_images/a7.jpeg",
         "authorName": "tonilopezmr",
         "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
         "sample": "https://instantclip.app/app_images/letsgo.mp4",
@@ -158,46 +158,6 @@
             }, {
                 "time": 1.05,
                 "type": "video"
-            }]
-        }
-    },
-    {
-        "id": "A5",
-        "title": "To the moon",
-        "thumbnailUrl": "https://instantclip.app/app_images/a5.jpeg",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
-        "sample": "https://instantclip.app/app_images/video_sample.mp4",
-        "template": {
-            "duration": 4.8,
-            "soundUrl": "http://instantclip.app/app_images/song1.mp3",
-            "slots": [{
-                "time": 1,
-                "type": "video"
-            }, {
-                "time": 1,
-                "type": "image"
-            }, {
-                "time": 0.4,
-                "type": "video"
-            }, {
-                "time": 0.4,
-                "type": "image"
-            }, {
-                "time": 0.4,
-                "type": "video"
-            }, {
-                "time": 0.4,
-                "type": "image"
-            }, {
-                "time": 0.4,
-                "type": "image"
-            }, {
-                "time": 0.4,
-                "type": "image"
-            }, {
-                "time": 0.4,
-                "type": "image"
             }]
         }
     },
