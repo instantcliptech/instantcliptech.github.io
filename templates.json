@@ -360,5 +360,59 @@
                 "type": "video"
             }]
         }
+    }, {
+        "id": "A9",
+        "title": "Live your Life",
+        "thumbnailUrl": "https://instantclip.app/app_images/yourlife.png",
+        "authorName": "tonilopezmr",
+        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "sample": "https://instantclip.app/app_images/yourlife.mp4",
+        "template": {
+            "duration": 12,
+            "soundUrl": "http://instantclip.app/app_images/yourlife.mpeg",
+            "slots": [{
+                "time": 1.63,
+                "type": "video"
+            }, {
+                "time": 0.52,
+                "type": "video"
+            }, {
+                "time": 0.46,
+                "type": "video"
+            }, {
+                "time": 0.31,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.8,
+                "type": "video"
+            }, {
+                "time": 1.23,
+                "type": "video"
+            }, {
+                "time": 0.46,
+                "type": "video"
+            }, {
+                "time": 1.43,
+                "type": "video"
+            }, {
+                "time": 0.97,
+                "type": "video"
+            }, {
+                "time": 0.83,
+                "type": "video"
+            }, {
+                "time": 0.70,
+                "type": "video"
+            }, {
+                "time": 0.65,
+                "type": "video"
+            }, {
+                "time": 0.89,
+                "type": "video"
+            }]
+        }
     }
 ]
