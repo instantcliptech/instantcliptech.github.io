@@ -264,7 +264,7 @@
         "sample": "https://instantclip.app/app_images/outofheaven.mp4",
         "template": {
             "duration": 18,
-            "soundUrl": "http://instantclip.app/app_images/outofheaven.mpeg",
+            "soundUrl": "http://instantclip.app/app_images/outofheaven.mp3",
             "slots": [{
                 "time": 5.95,
                 "type": "video"
@@ -369,7 +369,7 @@
         "sample": "https://instantclip.app/app_images/yourlife.mp4",
         "template": {
             "duration": 12,
-            "soundUrl": "http://instantclip.app/app_images/yourlife.mpeg",
+            "soundUrl": "http://instantclip.app/app_images/yourlife.mp3",
             "slots": [{
                 "time": 1.63,
                 "type": "video"
