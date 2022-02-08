@@ -393,5 +393,44 @@
                 "type": "video"
             }]
         }
+    },{
+        "id": "A11",
+        "title": "LIFE IN THE CITY",
+        "thumbnailUrl": "https://instantclip.app/app_images/lifeinthecity.jpeg",
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
+        "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
+        "template": {
+            "duration": 6.6,
+            "soundUrl": "http://instantclip.app/app_images/lifeinthecity.mp3",
+            "slots": [{
+                "time": 0.9,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 1.1,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }]
+        }
     }
 ]
