@@ -2,9 +2,15 @@
         "id": "A1",
         "title": "Piano trips",
         "thumbnailUrl": "https://instantclip.app/app_images/a1.jpg",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/video_sample2.MOV",
+        "tags": ["piano"],
         "template": {
             "duration": 8,
             "soundUrl": "http://instantclip.app/app_images/video_sample2.mp3",
@@ -14,40 +20,40 @@
             }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.4,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.5,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.5,
                 "type": "video"
-            },{
+            }, {
                 "time": 0.6,
                 "type": "video"
-            },{
+            }, {
                 "time": 2.4,
                 "type": "video"
             }]
@@ -57,9 +63,15 @@
         "id": "A2",
         "title": "Good part",
         "thumbnailUrl": "https://instantclip.app/app_images/a3.jpg",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/good_part_sample.mov",
+        "tags": [""],
         "template": {
             "duration": 7,
             "soundUrl": "http://instantclip.app/app_images/good_part.mp3",
@@ -76,9 +88,15 @@
         "id": "A3",
         "title": "Unexpected Journey",
         "thumbnailUrl": "https://instantclip.app/app_images/a4.jpg",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/unexpected_travel.mov",
+        "tags": [""],
         "template": {
             "duration": 8.37,
             "soundUrl": "http://instantclip.app/app_images/unexpected_travel.mp3",
@@ -131,9 +149,15 @@
         "id": "A4",
         "title": "Let's go",
         "thumbnailUrl": "https://instantclip.app/app_images/a7.jpeg",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/letsgo.mp4",
+        "tags": [""],
         "template": {
             "duration": 11,
             "soundUrl": "http://instantclip.app/app_images/letsgo.mp3",
@@ -165,9 +189,15 @@
         "id": "A6",
         "title": "So Alone",
         "thumbnailUrl": "https://instantclip.app/app_images/soalone.jpeg",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/soalone.mp4",
+        "tags": [""],
         "template": {
             "duration": 4.8,
             "soundUrl": "http://instantclip.app/app_images/soalone.mp3",
@@ -214,9 +244,15 @@
         "id": "A7",
         "title": "Miss you",
         "thumbnailUrl": "https://instantclip.app/app_images/abcd.png",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/abcd.mp4",
+        "tags": [""],
         "template": {
             "duration": 4.8,
             "soundUrl": "http://instantclip.app/app_images/abcd.mp3",
@@ -255,13 +291,19 @@
                 "type": "video"
             }]
         }
-    },{
+    }, {
         "id": "A8",
         "title": "Sunset",
         "thumbnailUrl": "https://instantclip.app/app_images/sunset.png",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/sunset.mp4",
+        "tags": [""],
         "template": {
             "duration": 6.62,
             "soundUrl": "http://instantclip.app/app_images/sunset.mp3",
@@ -292,9 +334,15 @@
         "id": "A9",
         "title": "Live your Life",
         "thumbnailUrl": "https://instantclip.app/app_images/yourlife.png",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/yourlife.mp4",
+        "tags": [""],
         "template": {
             "duration": 12,
             "soundUrl": "http://instantclip.app/app_images/yourlife.mp3",
@@ -342,13 +390,19 @@
                 "type": "video"
             }]
         }
-    },{
+    }, {
         "id": "A10",
         "title": "Steps",
         "thumbnailUrl": "https://instantclip.app/app_images/steps.png",
-        "authorName": "tonilopezmr",
-        "authorAvatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4",
+        "creator": {
+            "name": "tonilopezmr",
+            "username": "tonilopezmr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/steps.mp4",
+        "tags": [""],
         "template": {
             "duration": 9,
             "soundUrl": "http://instantclip.app/app_images/steps.mp3",
@@ -393,13 +447,19 @@
                 "type": "video"
             }]
         }
-    },{
+    }, {
         "id": "A11",
         "title": "LIFE IN THE CITY",
         "thumbnailUrl": "https://instantclip.app/app_images/lifeinthecity.jpeg",
+        "creator": {
+            "name": "fulltimefemme",
+            "username": "fulltimefemme",
+            "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
+        },
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
+        "tags": [""],
         "template": {
             "duration": 6.6,
             "soundUrl": "http://instantclip.app/app_images/lifeinthecity.mp3",
