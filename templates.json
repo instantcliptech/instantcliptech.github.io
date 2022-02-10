@@ -492,5 +492,50 @@
                 "type": "video"
             }]
         }
+    }, {
+        "id": "A12",
+        "title": "My Valentine",
+        "thumbnailUrl": "https://instantclip.app/app_images/myvalentine.png",
+        "creator": {
+            "name": "its_jal",
+            "username": "its_jal",
+            "avatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg"
+        },
+        "authorName": "its_jal",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg",
+        "sample": "https://instantclip.app/app_images/myvalentine.mp4",
+        "tags": ["valentine"],
+        "template": {
+            "duration": 14.4,
+            "soundUrl": "http://instantclip.app/app_images/myvalentine.mp3",
+            "slots": [{
+                "time": 2.1,
+                "type": "video"
+            }, {
+                "time": 1.2,
+                "type": "video"
+            }, {
+                "time": 1.2,
+                "type": "video"
+            }, {
+                "time": 1.7,
+                "type": "video"
+            }, {
+                "time": 1.6,
+                "type": "video"
+            }, {
+                "time": 1.6,
+                "type": "video"
+            }, {
+                "time": 1.6,
+                "type": "video"
+            }, {
+                "time": 1.7,
+                "type": "video"
+            }, {
+                "time": 1.7,
+                "type": "video"
+            }]
+        }
     }
 ]
