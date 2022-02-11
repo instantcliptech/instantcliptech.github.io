@@ -540,7 +540,7 @@
     }, {
         "id": "A13",
         "title": "Application",
-        "thumbnailUrl": "https://instantclip.app/app_images/aplication.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/application.png",
         "creator": {
             "name": "its_jal",
             "username": "its_jal",
@@ -548,11 +548,11 @@
         },
         "authorName": "its_jal",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg",
-        "sample": "https://instantclip.app/app_images/aplication.mp4",
+        "sample": "https://instantclip.app/app_images/application.mp4",
         "tags": ["application"],
         "template": {
             "duration": 12.48,
-            "soundUrl": "http://instantclip.app/app_images/aplication.mp3",
+            "soundUrl": "http://instantclip.app/app_images/application.mp3",
             "slots": [{
                 "time": 4.53,
                 "type": "video"
