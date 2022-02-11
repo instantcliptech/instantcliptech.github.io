@@ -298,7 +298,7 @@
         "creator": {
             "name": "roadsandrivers.de",
             "username": "roadsandrivers.de",
-            "avatarUrl": "https://instantclip.app/app_images/c/roadsandrivers.jpg",
+            "avatarUrl": "https://instantclip.app/app_images/c/roadsandrivers.jpg"
         },
         "authorName": "roadsandrivers.de",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/roadsandrivers.jpg",
@@ -534,6 +534,60 @@
                 "type": "video"
             }, {
                 "time": 1.7,
+                "type": "video"
+            }]
+        }
+    }, {
+        "id": "A13",
+        "title": "Application",
+        "thumbnailUrl": "https://instantclip.app/app_images/aplication.png",
+        "creator": {
+            "name": "its_jal",
+            "username": "its_jal",
+            "avatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg"
+        },
+        "authorName": "its_jal",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg",
+        "sample": "https://instantclip.app/app_images/aplication.mp4",
+        "tags": ["application"],
+        "template": {
+            "duration": 12.48,
+            "soundUrl": "http://instantclip.app/app_images/aplication.mp3",
+            "slots": [{
+                "time": 4.53,
+                "type": "video"
+            }, {
+                "time": 1.60,
+                "type": "video"
+            }, {
+                "time": 0.83,
+                "type": "video"
+            }, {
+                "time": 0.85,
+                "type": "video"
+            }, {
+                "time": 0.41,
+                "type": "video"
+            }, {
+                "time": 0.44,
+                "type": "video"
+            }, {
+                "time": 0.87,
+                "type": "video"
+            }, {
+                "time": 0.86,
+                "type": "video"
+            }, {
+                "time": 0.85,
+                "type": "video"
+            }, {
+                "time": 0.41,
+                "type": "video"
+            }, {
+                "time": 0.41,
+                "type": "video"
+            }, {
+                "time": 0.42,
                 "type": "video"
             }]
         }
