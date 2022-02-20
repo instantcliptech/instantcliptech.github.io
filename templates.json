@@ -7,6 +7,9 @@
             "username": "tonilopezmr",
             "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/video_sample2.MOV",
@@ -68,6 +71,9 @@
             "username": "tonilopezmr",
             "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/good_part_sample.mov",
@@ -93,6 +99,9 @@
             "username": "tonilopezmr",
             "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/unexpected_travel.mov",
@@ -154,6 +163,9 @@
             "username": "tonilopezmr",
             "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/letsgo.mp4",
@@ -194,6 +206,9 @@
             "username": "travelwithvivien",
             "avatarUrl": "https://instantclip.app/app_images/c/travelwithvivien.jpg"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "travelwithvivien",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/travelwithvivien.jpg",
         "sample": "https://instantclip.app/app_images/soalone.mp4",
@@ -249,6 +264,9 @@
             "username": "travelwithvivien",
             "avatarUrl": "https://instantclip.app/app_images/c/travelwithvivien.jpg"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "travelwithvivien",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/travelwithvivien.jpg",
         "sample": "https://instantclip.app/app_images/abcd.mp4",
@@ -300,6 +318,9 @@
             "username": "roadsandrivers.de",
             "avatarUrl": "https://instantclip.app/app_images/c/roadsandrivers.jpg"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "roadsandrivers.de",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/roadsandrivers.jpg",
         "sample": "https://instantclip.app/app_images/sunset.mp4",
@@ -339,6 +360,9 @@
             "username": "tonilopezmr",
             "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/yourlife.mp4",
@@ -399,6 +423,9 @@
             "username": "tonilopezmr",
             "avatarUrl": "https://avatars.githubusercontent.com/u/5845622?s=40&v=4"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/steps.mp4",
@@ -456,6 +483,9 @@
             "username": "fulltimefemme",
             "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
         "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
@@ -501,6 +531,9 @@
             "username": "its_jal",
             "avatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg"
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "its_jal",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg",
         "sample": "https://instantclip.app/app_images/myvalentine.mp4",
@@ -546,6 +579,9 @@
             "username": "sigit.ar13",
             "avatarUrl": "https://instantclip.app/app_images/c/sigit.ar13.jpg",
         },
+        "music": {
+            "name": "Things of Beauty"
+        }
         "authorName": "sigit.ar13",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/sigit.ar13.jpg",
         "sample": "https://instantclip.app/app_images/application.mp4",
@@ -591,5 +627,66 @@
                 "type": "video"
             }]
         }
+    }, {
+        "id": "A14",
+        "title": "Things of Beauty",
+        "thumbnailUrl": "https://instantclip.app/app_images/beauty.png",
+        "creator": {
+            "name": "its_jal",
+            "username": "its_jal",
+            "avatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg"
+        },
+        "music": {
+            "name": "Things of Beauty"
+        }
+        "authorName": "its_jal",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/its_jal.jpg",
+        "sample": "https://instantclip.app/app_images/beauty.mp4",
+        "tags": ["beauty"],
+        "template": {
+            "duration": 9.95,
+            "soundUrl": "http://instantclip.app/app_images/beauty.mp3",
+            "slots": [{
+                "time": 1.09,
+                "type": "video"
+            }, {
+                "time": 2.78,
+                "type": "video"
+            }, {
+                "time": 0.58,
+                "type": "video"
+            }, {
+                "time": 0.37,
+                "type": "video"
+            }, {
+                "time": 0.88,
+                "type": "video"
+            }, {
+                "time": 0.56,
+                "type": "video"
+            }, {
+                "time": 0.42,
+                "type": "video"
+            }, {
+                "time": 0.53,
+                "type": "video"
+            }, {
+                "time": 0.48,
+                "type": "video"
+            }, {
+                "time": 0.48,
+                "type": "video"
+            }, {
+                "time": 0.45,
+                "type": "video"
+            }, {
+                "time": 0.75,
+                "type": "video"
+            }, {
+                "time": 0.58,
+                "type": "video"
+            }]
+        }
     }
+
 ]
