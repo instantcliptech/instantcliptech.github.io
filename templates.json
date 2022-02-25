@@ -1,4 +1,157 @@
 [{
+        "id": "A15",
+        "title": "Paradise on Earth",
+        "thumbnailUrl": "https://instantclip.app/app_images/paradise.png",
+        "creator": {
+            "name": "Sabrina",
+            "username": "sabrina.marina.silva",
+            "avatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg"
+        },
+        "music": {
+            "name": "The street collective, original sound"
+        },
+        "authorName": "sabrina.marina.silva",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg",
+        "sample": "https://instantclip.app/app_images/paradise.mp4",
+        "tags": ["travel", "nature", "landscape"],
+        "template": {
+            "duration": 11,
+            "soundUrl": "http://instantclip.app/app_images/paradise.mp3",
+            "slots": [{
+                "time": 2.3,
+                "type": "video"
+            }, {
+                "time": 1.2,
+                "type": "video"
+            }, {
+                "time": 2.0,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 1.0,
+                "type": "video"
+            }, {
+                "time": 2.0,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 1.0,
+                "type": "video"
+            }]
+        }
+    }, {
+        "id": "A11",
+        "title": "LIFE IN THE CITY",
+        "thumbnailUrl": "https://instantclip.app/app_images/lifeinthecity.jpeg",
+        "creator": {
+            "name": "fulltimefemme",
+            "username": "fulltimefemme",
+            "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
+        },
+        "music": {
+            "name": "Things of Beauty"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
+        "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
+        "tags": [""],
+        "template": {
+            "duration": 6.6,
+            "soundUrl": "http://instantclip.app/app_images/lifeinthecity.mp3",
+            "slots": [{
+                "time": 0.9,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 1.1,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }]
+        }
+    }, {
+        "id": "A16",
+        "title": "Symphony",
+        "thumbnailUrl": "https://instantclip.app/app_images/symphony.png",
+        "creator": {
+            "name": "Sabrina",
+            "username": "sabrina.marina.silva",
+            "avatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg"
+        },
+        "music": {
+            "name": "clean bandit, symphony"
+        },
+        "authorName": "sabrina.marina.silva",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg",
+        "sample": "https://instantclip.app/app_images/symphony.mp4",
+        "tags": ["travel", "lifestyle"],
+        "template": {
+            "duration": 7,
+            "soundUrl": "http://instantclip.app/app_images/symphony.mp3",
+            "slots": [{
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.8,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 1.45,
+                "type": "video"
+            }, {
+                "time": 0.2,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.25,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 1.8,
+                "type": "video"
+            }]
+        }
+    }, {
         "id": "A1",
         "title": "Piano trips",
         "thumbnailUrl": "https://instantclip.app/app_images/a1.jpg",
@@ -475,54 +628,6 @@
             }]
         }
     }, {
-        "id": "A11",
-        "title": "LIFE IN THE CITY",
-        "thumbnailUrl": "https://instantclip.app/app_images/lifeinthecity.jpeg",
-        "creator": {
-            "name": "fulltimefemme",
-            "username": "fulltimefemme",
-            "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
-        },
-        "music": {
-            "name": "Things of Beauty"
-        },
-        "authorName": "fulltimefemme",
-        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
-        "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
-        "tags": [""],
-        "template": {
-            "duration": 6.6,
-            "soundUrl": "http://instantclip.app/app_images/lifeinthecity.mp3",
-            "slots": [{
-                "time": 0.9,
-                "type": "video"
-            }, {
-                "time": 0.6,
-                "type": "video"
-            }, {
-                "time": 0.7,
-                "type": "video"
-            }, {
-                "time": 0.7,
-                "type": "video"
-            }, {
-                "time": 0.6,
-                "type": "video"
-            }, {
-                "time": 0.7,
-                "type": "video"
-            }, {
-                "time": 0.6,
-                "type": "video"
-            }, {
-                "time": 1.1,
-                "type": "video"
-            }, {
-                "time": 0.7,
-                "type": "video"
-            }]
-        }
-    }, {
         "id": "A12",
         "title": "My Valentine",
         "thumbnailUrl": "https://instantclip.app/app_images/myvalentine.png",
@@ -684,111 +789,6 @@
                 "type": "video"
             }, {
                 "time": 0.58,
-                "type": "video"
-            }]
-        }
-    },{
-        "id": "A15",
-        "title": "Paradise on Earth",
-        "thumbnailUrl": "https://instantclip.app/app_images/paradise.png",
-        "creator": {
-            "name": "Sabrina",
-            "username": "sabrina.marina.silva",
-            "avatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg"
-        },
-        "music": {
-            "name": "The street collective, original sound"
-        },
-        "authorName": "sabrina.marina.silva",
-        "authorAvatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg",
-        "sample": "https://instantclip.app/app_images/paradise.mp4",
-        "tags": ["travel", "nature", "landscape"],
-        "template": {
-            "duration": 11,
-            "soundUrl": "http://instantclip.app/app_images/paradise.mp3",
-            "slots": [{
-                "time": 2.3,
-                "type": "video"
-            }, {
-                "time": 1.2,
-                "type": "video"
-            }, {
-                "time": 2.0,
-                "type": "video"
-            }, {
-                "time": 0.5,
-                "type": "video"
-            }, {
-                "time": 0.5,
-                "type": "video"
-            }, {
-                "time": 1.0,
-                "type": "video"
-            }, {
-                "time": 2.0,
-                "type": "video"
-            }, {
-                "time": 0.5,
-                "type": "video"
-            }, {
-                "time": 0.5,
-                "type": "video"
-            }, {
-                "time": 1.0,
-                "type": "video"
-            }]
-        }
-    }, {
-        "id": "A16",
-        "title": "Symphony",
-        "thumbnailUrl": "https://instantclip.app/app_images/symphony.png",
-        "creator": {
-            "name": "Sabrina",
-            "username": "sabrina.marina.silva",
-            "avatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg"
-        },
-        "music": {
-            "name": "clean bandit, symphony"
-        },
-        "authorName": "sabrina.marina.silva",
-        "authorAvatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg",
-        "sample": "https://instantclip.app/app_images/symphony.mp4",
-        "tags": ["travel", "lifestyle"],
-        "template": {
-            "duration": 7,
-            "soundUrl": "http://instantclip.app/app_images/symphony.mp3",
-            "slots": [{
-                "time": 0.7,
-                "type": "video"
-            }, {
-                "time": 0.8,
-                "type": "video"
-            }, {
-                "time": 0.7,
-                "type": "video"
-            }, {
-                "time": 1.45,
-                "type": "video"
-            }, {
-                "time": 0.2,
-                "type": "video"
-            }, {
-                "time": 0.4,
-                "type": "video"
-            }, {
-                "time": 0.3,
-                "type": "video"
-            }, {
-                "time": 0.5,
-                "type": "video"
-            }, {
-                "time": 0.25,
-                "type": "video"
-            }, {
-                "time": 0.4,
-                "type": "video"
-            }, {
-                "time": 1.8,
                 "type": "video"
             }]
         }
