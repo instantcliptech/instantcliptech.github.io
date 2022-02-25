@@ -1,7 +1,7 @@
 [{
         "id": "A15",
         "title": "Paradise on Earth",
-        "thumbnailUrl": "https://instantclip.app/app_images/paradise.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/paradise.jpg",
         "creator": {
             "name": "Sabrina",
             "username": "sabrina.marina.silva",
@@ -100,7 +100,7 @@
     }, {
         "id": "A16",
         "title": "Symphony",
-        "thumbnailUrl": "https://instantclip.app/app_images/symphony.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/symphony.jpg",
         "creator": {
             "name": "Sabrina",
             "username": "sabrina.marina.silva",
@@ -154,7 +154,7 @@
     }, {
         "id": "A17",
         "title": " Gangsta's Paradise",
-        "thumbnailUrl": "https://instantclip.app/app_images/gangsta.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/gangsta.jpg",
         "creator": {
             "name": "Sabrina",
             "username": "sabrina.marina.silva",
@@ -471,7 +471,7 @@
     {
         "id": "A7",
         "title": "Miss you",
-        "thumbnailUrl": "https://instantclip.app/app_images/abcd.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/abcd.jpg",
         "creator": {
             "name": "travelwithvivien",
             "username": "travelwithvivien",
@@ -525,7 +525,7 @@
     }, {
         "id": "A8",
         "title": "Sunset",
-        "thumbnailUrl": "https://instantclip.app/app_images/sunset.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/sunset.jpg",
         "creator": {
             "name": "roadsandrivers.de",
             "username": "roadsandrivers.de",
@@ -567,7 +567,7 @@
     }, {
         "id": "A9",
         "title": "Live your Life",
-        "thumbnailUrl": "https://instantclip.app/app_images/yourlife.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/yourlife.jpg",
         "creator": {
             "name": "tonilopezmr",
             "username": "tonilopezmr",
@@ -630,7 +630,7 @@
     }, {
         "id": "A10",
         "title": "Steps",
-        "thumbnailUrl": "https://instantclip.app/app_images/steps.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/steps.jpg",
         "creator": {
             "name": "tonilopezmr",
             "username": "tonilopezmr",
@@ -690,7 +690,7 @@
     }, {
         "id": "A12",
         "title": "My Valentine",
-        "thumbnailUrl": "https://instantclip.app/app_images/myvalentine.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/myvalentine.jpg",
         "creator": {
             "name": "its_jal",
             "username": "its_jal",
@@ -738,7 +738,7 @@
     }, {
         "id": "A13",
         "title": "Application",
-        "thumbnailUrl": "https://instantclip.app/app_images/application.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/application.jpg",
         "creator": {
             "name": "sigit.ar13",
             "username": "sigit.ar13",
@@ -795,7 +795,7 @@
     }, {
         "id": "A14",
         "title": "Things of Beauty",
-        "thumbnailUrl": "https://instantclip.app/app_images/beauty.png",
+        "thumbnailUrl": "https://instantclip.app/app_images/beauty.jpg",
         "creator": {
             "name": "its_jal",
             "username": "its_jal",
