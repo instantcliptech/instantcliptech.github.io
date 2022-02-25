@@ -15,8 +15,8 @@
         "sample": "https://instantclip.app/app_images/paradise.mp4",
         "tags": ["travel", "nature", "landscape"],
         "template": {
-            "duration": 11,
-            "soundUrl": "http://instantclip.app/app_images/paradise.mp3",
+            "duration": 11.5,
+            "soundUrl": "https://instantclip.app/app_images/paradise.mp3",
             "slots": [{
                 "time": 2.3,
                 "type": "video"
@@ -67,7 +67,7 @@
         "tags": [""],
         "template": {
             "duration": 6.6,
-            "soundUrl": "http://instantclip.app/app_images/lifeinthecity.mp3",
+            "soundUrl": "https://instantclip.app/app_images/lifeinthecity.mp3",
             "slots": [{
                 "time": 0.9,
                 "type": "video"
@@ -115,7 +115,7 @@
         "tags": ["travel", "lifestyle"],
         "template": {
             "duration": 7,
-            "soundUrl": "http://instantclip.app/app_images/symphony.mp3",
+            "soundUrl": "https://instantclip.app/app_images/symphony.mp3",
             "slots": [{
                 "time": 0.7,
                 "type": "video"
@@ -169,7 +169,7 @@
         "tags": ["piano"],
         "template": {
             "duration": 8,
-            "soundUrl": "http://instantclip.app/app_images/video_sample2.mp3",
+            "soundUrl": "https://instantclip.app/app_images/video_sample2.mp3",
             "slots": [{
                 "time": 0.4,
                 "type": "video"
@@ -233,7 +233,7 @@
         "tags": [""],
         "template": {
             "duration": 7,
-            "soundUrl": "http://instantclip.app/app_images/good_part.mp3",
+            "soundUrl": "https://instantclip.app/app_images/good_part.mp3",
             "slots": [{
                 "time": 3.4,
                 "type": "video"
