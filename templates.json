@@ -152,6 +152,66 @@
             }]
         }
     }, {
+        "id": "A17",
+        "title": " Gangsta's Paradise",
+        "thumbnailUrl": "https://instantclip.app/app_images/gangsta.png",
+        "creator": {
+            "name": "Sabrina",
+            "username": "sabrina.marina.silva",
+            "avatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg"
+        },
+        "music": {
+            "name": "chill fruits music, GANGSTA'S paradise"
+        },
+        "authorName": "sabrina.marina.silva",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg",
+        "sample": "https://instantclip.app/app_images/gangsta.mp4",
+        "tags": ["travel", "lifestyle", "sports"],
+        "template": {
+            "duration": 10.2,
+            "soundUrl": "https://instantclip.app/app_images/gangsta.mp3",
+            "slots": [{
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.9,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.8,
+                "type": "video"
+            }, {
+                "time": 0.9,
+                "type": "video"
+            }, {
+                "time": 0.8,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 1.0,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 1.0,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }]
+        }
+    }, {
         "id": "A1",
         "title": "Piano trips",
         "thumbnailUrl": "https://instantclip.app/app_images/a1.jpg",
