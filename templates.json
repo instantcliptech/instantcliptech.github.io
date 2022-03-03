@@ -1,4 +1,55 @@
 [{
+        "id": "A18",
+        "title": "Good Moments",
+        "thumbnailUrl": "https://instantclip.app/app_images/goodmoments.jpg",
+        "creator": {
+            "name": "Sabrina",
+            "username": "sabrina.marina.silva",
+            "avatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg"
+        },
+        "music": {
+            "name": "Midnight City, M83"
+        },
+        "authorName": "sabrina.marina.silva",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/sabrina.marina.silva.jpg",
+        "sample": "https://instantclip.app/app_images/goodmoments.mp4",
+        "tags": ["travel", "lifestyle"],
+        "template": {
+            "duration": 7.75,
+            "soundUrl": "https://instantclip.app/app_images/goodmoments.mp3",
+            "slots": [{
+                "time": 0.70,
+                "type": "video"
+            }, {
+                "time": 0.50,
+                "type": "video"
+            }, {
+                "time": 0.55,
+                "type": "video"
+            }, {
+                "time": 1.50,
+                "type": "video"
+            }, {
+                "time": 0.60,
+                "type": "video"
+            }, {
+                "time": 0.90,
+                "type": "video"
+            }, {
+                "time": 1.10,
+                "type": "video"
+            }, {
+                "time": 0.80,
+                "type": "video"
+            }, {
+                "time": 0.60,
+                "type": "video"
+            }, {
+                "time": 0.50,
+                "type": "video"
+            }]
+        }
+    },{
         "id": "A15",
         "title": "Paradise on Earth",
         "thumbnailUrl": "https://instantclip.app/app_images/paradise.jpg",
