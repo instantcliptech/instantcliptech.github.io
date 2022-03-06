@@ -1,100 +1,85 @@
 [{
-    "id": "A11",
-    "title": "SUMMER ON MY MIND",
-    "thumbnailUrl": "https://instantclip.app/app_images/summermymind.jpeg",
-    "creator": {
-        "name": "fulltimefemme",
-        "username": "fulltimefemme",
-        "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
-    },
-    "music": {
-        "name": "All Time Low, Jon Bellion"
-    },
-    "authorName": "fulltimefemme",
-    "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
-    "sample": "https://instantclip.app/app_images/summermymind.mp4",
-    "tags": [""],
-    "template": {
-        "duration": 8.2,
-        "soundUrl": "https://instantclip.app/app_images/summermymind.mp3",
-        "slots": [{
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }, {
-            "time": 0.3,
-            "type": "video"
-        }]
-    }
-},{
+        "id": "A20",
+        "title": "CITY RUNAWAY",
+        "thumbnailUrl": "https://instantclip.app/app_images/runaway.jpeg",
+        "creator": {
+            "name": "fulltimefemme",
+            "username": "fulltimefemme",
+            "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
+        },
+        "music": {
+            "name": "Runaway"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
+        "sample": "https://instantclip.app/app_images/runaway.mp4",
+        "tags": [""],
+        "template": {
+            "duration": 6,
+            "soundUrl": "https://instantclip.app/app_images/runaway.mp3",
+            "slots": [{
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.1,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.2,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }]
+        }
+    }, {
         "id": "A18",
         "title": "Good Moments",
         "thumbnailUrl": "https://instantclip.app/app_images/goodmoments.jpg",
@@ -145,51 +130,99 @@
                 "type": "video"
             }]
         }
-    },{
-        "id": "A11",
-        "title": "LIFE IN THE CITY",
-        "thumbnailUrl": "https://instantclip.app/app_images/lifeinthecity.jpeg",
+    }, {
+        "id": "A19",
+        "title": "SUMMER ON MY MIND",
+        "thumbnailUrl": "https://instantclip.app/app_images/summermymind.jpeg",
         "creator": {
             "name": "fulltimefemme",
             "username": "fulltimefemme",
             "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
         },
         "music": {
-            "name": "Things of Beauty"
+            "name": "All Time Low, Jon Bellion"
         },
         "authorName": "fulltimefemme",
         "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
-        "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
+        "sample": "https://instantclip.app/app_images/summermymind.mp4",
         "tags": [""],
         "template": {
-            "duration": 6.6,
-            "soundUrl": "https://instantclip.app/app_images/lifeinthecity.mp3",
+            "duration": 8.2,
+            "soundUrl": "https://instantclip.app/app_images/summermymind.mp3",
             "slots": [{
-                "time": 0.9,
+                "time": 0.4,
                 "type": "video"
             }, {
-                "time": 0.6,
+                "time": 0.4,
                 "type": "video"
             }, {
-                "time": 0.7,
+                "time": 0.4,
                 "type": "video"
             }, {
-                "time": 0.7,
+                "time": 0.5,
                 "type": "video"
             }, {
-                "time": 0.6,
+                "time": 0.4,
                 "type": "video"
             }, {
-                "time": 0.7,
+                "time": 0.4,
                 "type": "video"
             }, {
-                "time": 0.6,
+                "time": 0.3,
                 "type": "video"
             }, {
-                "time": 1.1,
+                "time": 0.3,
                 "type": "video"
             }, {
-                "time": 0.7,
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
+                "type": "video"
+            }, {
+                "time": 0.3,
                 "type": "video"
             }]
         }
@@ -241,6 +274,54 @@
                 "type": "video"
             }, {
                 "time": 1.0,
+                "type": "video"
+            }]
+        }
+    }, {
+        "id": "A11",
+        "title": "LIFE IN THE CITY",
+        "thumbnailUrl": "https://instantclip.app/app_images/lifeinthecity.jpeg",
+        "creator": {
+            "name": "fulltimefemme",
+            "username": "fulltimefemme",
+            "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
+        },
+        "music": {
+            "name": "Things of Beauty"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
+        "sample": "https://instantclip.app/app_images/lifeinthecity.mov",
+        "tags": [""],
+        "template": {
+            "duration": 6.6,
+            "soundUrl": "https://instantclip.app/app_images/lifeinthecity.mp3",
+            "slots": [{
+                "time": 0.9,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.7,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 1.1,
+                "type": "video"
+            }, {
+                "time": 0.7,
                 "type": "video"
             }]
         }
