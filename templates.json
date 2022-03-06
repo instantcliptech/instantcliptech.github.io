@@ -1,4 +1,100 @@
 [{
+    "id": "A11",
+    "title": "SUMMER ON MY MIND",
+    "thumbnailUrl": "https://instantclip.app/app_images/summermymind.jpeg",
+    "creator": {
+        "name": "fulltimefemme",
+        "username": "fulltimefemme",
+        "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
+    },
+    "music": {
+        "name": "All Time Low, Jon Bellion"
+    },
+    "authorName": "fulltimefemme",
+    "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
+    "sample": "https://instantclip.app/app_images/summermymind.mp4",
+    "tags": [""],
+    "template": {
+        "duration": 8.2,
+        "soundUrl": "https://instantclip.app/app_images/summermymind.mp3",
+        "slots": [{
+            "time": 0.4,
+            "type": "video"
+        }, {
+            "time": 0.4,
+            "type": "video"
+        }, {
+            "time": 0.4,
+            "type": "video"
+        }, {
+            "time": 0.5,
+            "type": "video"
+        }, {
+            "time": 0.4,
+            "type": "video"
+        }, {
+            "time": 0.4,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }, {
+            "time": 0.3,
+            "type": "video"
+        }]
+    }
+},{
         "id": "A18",
         "title": "Good Moments",
         "thumbnailUrl": "https://instantclip.app/app_images/goodmoments.jpg",
