@@ -1,76 +1,121 @@
 [{
-    "id": "A21",
-    "title": "A MI MANERA",
-    "thumbnailUrl": "https://instantclip.app/app_images/conri.jpeg",
-    "creator": {
-        "name": "emgy.fm",
-        "username": "emgy.fm",
-        "avatarUrl": "https://instantclip.app/app_images/c/conri.jpeg"
-    },
-    "music": {
-        "name": "Vivo a mi manera - emgy"
-    },
-    "authorName": "emgy.fm",
-    "authorAvatarUrl": "https://instantclip.app/app_images/c/conri.jpeg",
-    "sample": "https://instantclip.app/app_images/conri.mov",
-    "tags": ["party"],
-    "template": {
-        "duration": 10.6,
-        "soundUrl": "https://instantclip.app/app_images/conri.mp3",
-        "slots": [{
-            "time": 1.6,
-            "type": "video"
-        }, {
-            "time": 0.6,
-            "type": "video"
-        }, {
-            "time": 1.0,
-            "type": "video"
-        }, {
-            "time": 0.6,
-            "type": "video"
-        }, {
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.4,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 0.5,
-            "type": "video"
-        }, {
-            "time": 1.0,
-            "type": "video"
-        }]
-    }
-},{
+        "id": "A21",
+        "title": "SATURDAY NIGHT OUT",
+        "thumbnailUrl": "https://instantclip.app/app_images/saturdaynight.jpeg",
+        "creator": {
+            "name": "fulltimefemme",
+            "username": "fulltimefemme",
+            "avatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg"
+        },
+        "music": {
+            "name": "Saturday night out - fulltimefemme song"
+        },
+        "authorName": "fulltimefemme",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/fulltimefemme.jpg",
+        "sample": "https://instantclip.app/app_images/saturdaynight.mp4",
+        "tags": ["party"],
+        "template": {
+            "duration": 4.2,
+            "soundUrl": "https://instantclip.app/app_images/saturdaynight.mp3",
+            "slots": [{
+                "time": 1.1,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }]
+        }
+    }, {
+        "id": "A21",
+        "title": "A MI MANERA",
+        "thumbnailUrl": "https://instantclip.app/app_images/conri.jpeg",
+        "creator": {
+            "name": "emgy.fm",
+            "username": "emgy.fm",
+            "avatarUrl": "https://instantclip.app/app_images/c/conri.jpeg"
+        },
+        "music": {
+            "name": "Vivo a mi manera - emgy"
+        },
+        "authorName": "emgy.fm",
+        "authorAvatarUrl": "https://instantclip.app/app_images/c/conri.jpeg",
+        "sample": "https://instantclip.app/app_images/conri.mov",
+        "tags": ["party"],
+        "template": {
+            "duration": 10.6,
+            "soundUrl": "https://instantclip.app/app_images/conri.mp3",
+            "slots": [{
+                "time": 1.6,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 1.0,
+                "type": "video"
+            }, {
+                "time": 0.6,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.4,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 0.5,
+                "type": "video"
+            }, {
+                "time": 1.0,
+                "type": "video"
+            }]
+        }
+    }, {
         "id": "A20",
         "title": "CITY RUNAWAY",
         "thumbnailUrl": "https://instantclip.app/app_images/runaway.jpeg",
